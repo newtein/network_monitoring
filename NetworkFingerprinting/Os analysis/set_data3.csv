@@ -1,0 +1,10 @@
+
+macaddr,os,accuracy,bool,osfamily,type,vendor,port
+34:AB:37:6B:BA:28,AppleMac,100,1,Apple,general purpose,Mac OS X,62078_tcp_open_4_tcp_closed_33024_udp_closed_
+5C:99:60:FF:D8:1F,Android5.0,100,1,Google,phone,Android,8007_tcp_open_1_tcp_closed_34263_udp_closed_
+64:27:37:A1:53:4F,MicrosoftWindows,100,1,Microsoft,general purpose,Windows,80_tcp_open_25_tcp_closed_
+64:27:37:A1:53:4F,MicrosoftWindows,100,1,Microsoft,general purpose,Windows,80_tcp_open_25_tcp_closed_
+74:29:AF:F7:52:DF,MicrosoftWindows,100,1,Microsoft,general purpose,Windows,135_tcp_open_25_tcp_closed_
+74:29:AF:F7:52:DF,Version6.1,100,1,Microsoft,general purpose,Windows,135_tcp_open_25_tcp_closed_
+F0:7B:CB:88:36:83,Linux3.2,100,1,Linux,general purpose,Linux,80_tcp_open_1_tcp_closed_36647_udp_closed_
+F0:7B:CB:88:36:83,Linux3.2,100,1,Linux,general purpose,Linux,80_tcp_open_1_tcp_closed_31506_udp_closed_

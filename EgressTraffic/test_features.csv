@@ -1,0 +1,2 @@
+safebrowsing,token_count,avg_path_token,largest_path,largest_token,URL,sec_sen_word_cnt,IPaddress_presence,largest_domain,No_of_dots,host,Length_of_url,ASNno,rank_country,rank_host,path_token_count,domain_token_count,path,avg_token_length,avg_domain_token_length,Length_of_host
+0,5,0,0,6,https://iota9.rtb.appier.net,0,0,6,3,iota9.rtb.appier.net,28,-1,10655,729805,0,4,,4.4,4.25,20
