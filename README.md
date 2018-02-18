@@ -1,4 +1,7 @@
 # A Distributed Network Health Monitoring and Recovery System
+
+Published Web-Page is available <a href="https://newtein.github.io/network_monitoring/" target="_blank"> here.</a>
+
 ## Research Abstract: 
 A computing system, which is part of computer network, can be compromised by exploiting vulnerabilities present in its active services. Even a single exploited system can bring the whole network down. In this paper, the vulnerabilities and their exploitation have been combated by tools for end-user system and for the network administrator. Collective information obtained from these tools have been used to create a more robust secure environment. Eminent features of the proposed system encompass monitoring & permeating malicious egress and ingress traffic, identification & scoring of vulnerabilities and exposing devices with anomalous fingerprints. Using combination of active and passive network monitoring, the system addresses multitude of threats like malicious traffic, vulnerable services, port infiltration, intrusion, exposure to phishing websites, DoS attacks, unpatched services, congestion, URL sanitization, botnet and fragile firewall. A prevention and recovery mechanism has also been implemented, that is triggered on detection of attack.
 
