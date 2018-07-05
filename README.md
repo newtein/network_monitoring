@@ -2,6 +2,8 @@
 
 Published web-page is available <a href="https://newtein.github.io/network_monitoring/" target="_blank"> here.</a>
 
+Details will be publicly available after publication. 
+
 ## Research Abstract-
 ![alt text](https://raw.githubusercontent.com/newtein/network_monitoring/master/images/Abstract.JPG)
 
